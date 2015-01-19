@@ -107,3 +107,7 @@ UpgradeLog*.XML
 # NuGet
 *.nupkg
 NuGet.exe
+/Sample.MVC6/AppScripts/home/f/app.js
+/Sample.MVC6/AppScripts/home/f/app.js.map
+/UpgradeLog.htm
+/packages
